@@ -1,1 +1,11 @@
 # Web-scraping-Data-analysis-project
+-- Data was collected using automated browsing to visit the Mars news site.
+-- Titles and preview text of Mars news articles were extracted using Beautiful Soup.
+-- The extracted data was stored in a list of dictionaries with 'title' and 'preview' keys.
+-- The scraped data was exported to a JSON file for easier sharing.
+-- The Mars Temperature Data Site was visited to scrape weather data from an HTML table.
+-- Beautiful Soup was used to scrape and assemble data into a Pandas DataFrame.
+-- The data was analyzed to answer questions about Martian months, days, and temperature patterns.
+-- Visualizations were created for temperature and atmospheric pressure across Martian months.
+-- The number of terrestrial days in a Martian year was estimated using data plots.
+-- The final DataFrame was exported to a CSV file for further use and analysis.
